@@ -1,0 +1,10 @@
+A,Daniel checked their balance $857.56
+A,Daniel checked their balance $3364.79
+A,Daniel checked their balance $-786.93
+Aguirre,Derek checked their balance $1845.56
+Aguirre,Derek checked their balance $3352.49
+Aguirre,Derek checked their balance $-58.57
+A,Daniel Deposit of $5.25 to account 1078
+Withdrawal failed: Exceeds available balance or invalid amount from account 3078.
+A,Daniel Deposit of $400.50 to account 1078
+A,Daniel Deposit of $500.00 to account 1078
